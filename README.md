@@ -1,2 +1,0 @@
-# MySite
-My website repositiory
